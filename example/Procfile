@@ -1,0 +1,3 @@
+service-a: node ./service.js
+service-b: node ./service.js
+service-c: node ./service.js

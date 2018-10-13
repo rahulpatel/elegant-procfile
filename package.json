@@ -1,0 +1,22 @@
+{
+  "name": "elegant-procfile",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Rahul Patel <rahulpatel@users.noreply.github.com>",
+  "license": "MIT",
+  "bin": {
+    "epr": "./index.js"
+  },
+  "dependencies": {
+    "@babel/core": "^7.1.2",
+    "@babel/plugin-proposal-object-rest-spread": "^7.0.0",
+    "@babel/plugin-transform-react-jsx": "^7.0.0",
+    "@babel/register": "^7.0.0",
+    "dotenv": "^6.0.0",
+    "elegant-spinner": "^1.0.1",
+    "indent-string": "^3.2.0",
+    "ink": "^0.5.1",
+    "log-update": "^2.3.0",
+    "meow": "^5.0.0"
+  }
+}
